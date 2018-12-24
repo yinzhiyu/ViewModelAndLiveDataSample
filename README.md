@@ -1,6 +1,7 @@
 # About ViewModel And LiveData
 ### 前方高能，注意，注意！！！
 ### 这个项目完全借鉴了[Android架构组件ViewModel和LiveData介绍及使用](https://blog.csdn.net/mjb00000/article/details/79495461)的例子，参考学习！
+---我是分割线
 ### 关于ViewModel
 
 ViewModel类的设计目的是以一种关注生命周期的方式存储和管理与UI相关的数据。  
