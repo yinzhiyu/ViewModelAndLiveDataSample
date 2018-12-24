@@ -232,4 +232,3 @@ public class BottomFragment extends Fragment {
 
 ![从Fragment中post出数据](https://github.com/mengjingbo/ViewModelAndLiveDataSample/blob/master/image/2.png?raw=true)
 
-[查看案例源代码](https://github.com/mengjingbo/ViewModelAndLiveDataSample)
